@@ -11,10 +11,10 @@ import './styles.css';
 
 const App = () => (
     <>
-        <UseContextExample />
-        {/* <UseRefExample /> */}
+        {/*<UseContextExample /> */}
+        {/*} <UseRefExample /> */}
         {/* <UseMemoExample /> */}
-        {/* <UseCallbackExample />*/}
+        <UseCallbackExample />
     </>
 );
 

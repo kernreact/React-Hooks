@@ -15,7 +15,7 @@ const layout = {
     right: 'row-reverse'
 };
 
-const ThemeContext = createContext({...styles.light, direction: layout.left});
+const ThemeContext = createContext({...styles.dark, direction: layout.left});
 
 const Layout = () => {
     const theme = useContext(ThemeContext);
