@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bulma": "^0.9.4",
+    "react-router-dom": "^6.3.0"
+  },
+  "devDependencies": {
+    "sass": "^1.53.0"
+  }
+}
